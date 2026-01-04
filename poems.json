@@ -1,0 +1,146 @@
+[
+    {
+        "title": "La vie",
+        "image": "img/couche_de_soleil.jpg",
+        "sound": "sound/la_vie.m4a",
+        "active": true,
+        "content": [
+            "Elle était annonc<mark class='yellow'>ée</mark>, comme un long fleuve tranqu<mark class='green'>ille</mark>.",
+            "Place où se dév<u>elo</u>pp<mark class='yellow'>er</mark>, tel le monde sur le N<mark class='green'>il</mark>.",
+            "Une merv<u>eille</u> dont il faut forcément profit<mark class='yellow'>er</mark>.",
+            "Tant elle est pré<u>cieu</u>se puisque momentan<mark class='yellow'>ée</mark>.\n",
+
+            "Le temps nous ra<u>mène</u> très <u>vite</u> à une autre ch<mark class='blue'>ose</mark>.",
+            "Une réalité qui est beaucoup moins r<mark class='blue'>ose</mark>.",
+            "Elle est effectivement parsemée d'em<mark class='cyan'>bû</mark><mark class='purple'>ches</mark>.",
+            "<u>Âpre</u>, il est possible que l’on y tré<mark class='cyan'>bu</mark><mark class='purple'>che</mark>.\n",
+
+            "Mais si vous arrivez à bien vous entour<mark class='yellow'>er</mark>.",
+            "Il vous sera po<u>ssible</u>, de vous y retrouv<mark class='yellow'>er</mark>.",
+            "Vous serez amus<mark class='yellow'>é</mark>, ou bien parfois cont<mark class='red'>ent</mark>.",
+            "Grâce à vos aim<mark class='yellow'>és</mark>, vos accomplissem<mark class='red'>ents</mark>.\n",
+
+            "C’est pour cela que je con<u>seille</u> d’en profit<mark class='lime'>er</mark>.",
+            "Car depuis la naissance, le temps est compt<mark class='lime'>é</mark>.",
+            "Il faut arrêter d’en<u>vier</u> la vie des <mark class='lavender'>autres</mark>.",
+            "Parce que celle qui <u>compte</u> vraiment, c’est la v<mark class='lavender'>ôtre</mark>.\n",
+
+            "Lacherez Louis - 28 février 2023 - I"
+        ]
+    },
+    {
+        "title": "La solitude",
+        "image": "img/solitude.jpg",
+        "active": true,
+        "content": [
+            "C’est quand tu es entouré des gens que tu <mark class='peach'>aimes</mark>,",
+            "Alors que dans ton cœur c’est la Bérézin<mark class='lavender'>a</mark>,",
+            "Que tu as l’impression d’être sur Sainte-Hé<u>l<mark class='peach'>ène</u></mark>,",
+            "Malgré tou<u>s ces</u> visages qui veillent sur t<mark class='lavender'>oi</mark>.\n",
+
+            "Simplement car la présence ne suffit p<mark class='lavender'>as</mark>,",
+            "Si l’alignement des esprits n’accompagne p<mark class='lavender'>as</mark>,",
+            "Alors ton cœur se fer<u>me aux</u> lueurs de l’az<mark class='cyan'>ur</mark>,",
+            "Pour te garder du froid d’un monde tro<u>p obs</u>c<mark class='cyan'>ur</mark>,",
+            "Pou<u>r es</u>sayer d'atténuer ce vi<u>de en</u> t<mark class='lavender'>oi</mark>,",
+            "Puisque per<u>sonne</u> ne sera là pour le combl<mark class='yellow'>er</mark>,",
+            "Qu'importe la vie, il sera là ici-b<mark class='lavender'>as</mark>,",
+            "Le jour à te ronger, la nuit à te hant<mark class='yellow'>er</mark>.\n",
+
+            "Il faut donc appren<u>dre à</u> se contenter de s<mark class='lavender'>oi</mark>,",
+            "<u>Même</u> s’il n’y a pas d’é<u>preuve</u> plus pé<u>nible</u> qui s<mark class='lavender'>oit</mark>.",
+            "Car il <u>n’y a</u> rien de plus beau que d’être compr<mark class='orange'>is</mark>,",
+            "Et d’ê<u>tre ai</u>mé pour soi, libre de tout souc<mark class='orange'>i</mark>.\n",
+
+            "Lacherez Louis - 9 août 2025 - II"
+        ]
+    },
+    {
+        "title": "La dépression",
+        "image": "img/depression.jpg",
+        "active": true,
+        "content": [
+            "Mes souven<mark class='peach'>irs</mark> me font souffr<mark class='peach'>ir</mark>,",
+            "Et mon fut<mark class='blue'>ur</mark> paraît obsc<mark class='blue'>ur</mark>.",
+            "C’est ce<u>tte ombre</u> qui pla<u>ne au</u>-dessus de ma <u>t<mark class='green'>ête</mark></u>,",
+            "Qui obscurcit toutes mes joies comme mes <u>f<mark class='green'>êtes</mark></u>.\n",
+
+            "Maladie dont il est important d’échapp<mark class='yellow'>er</mark>,",
+            "Alors que le piège s’est déjà referm<mark class='yellow'>é</mark>,",
+            "Et elle de<u>vient</u> une vraie monta<u>gne à</u> surmont<mark class='yellow'>er</mark>,",
+            "Tel le Grand-Saint-Bernard durant l’antiquit<mark class='yellow'>é</mark>.\n",
+
+            "Je me sens seul accompagn<mark class='yellow'>é</mark>.",
+            "Dans un corps vi<u>de en</u> bonne sant<mark class='yellow'>é</mark>.",
+            "J’ai gagné en insom<span class='pipe'/>n<mark class='purple'>ie</mark>,",
+            "Et ai perdu en appét<mark class='purple'>it</mark>.\n",
+
+            "Je pen<u>se au</u> pire co<u>mme à</u> un soulagem<mark class='red'>ent</mark>.",
+            "Un mauvais plan qui à l’air pourtant évid<mark class='red'>ent</mark>.",
+            "Nonobstant, je ne veux mour<mark class='peach'>ir</mark>.",
+            "Il vaut mieux langu<mark class='peach'>ir</mark>, que pér<mark class='peach'>ir</mark>.\n",
+            "Lacherez Louis - 9 septembre 2025 - III"
+        ]
+    },
+    {
+        "title": "Putain d'année",
+        "image": "img/femme.jpg",
+        "active": true,
+        "content": [
+            "Ju<u>ste a</u>vant de te rencontr<mark class='yellow'>er</mark>, je t’ai <u>souhai</u>t<mark class='yellow'>é</mark>.",
+            "Te pensant plus <u>belle</u> que la précé<u>d<mark class='red'>ente</mark></u>.",
+            "Mais apparemment, je m’étais bien fourvoy<mark class='yellow'>é</mark>.",
+            "Tu n’auras été que plus du<u>re et</u> sangl<mark class='red'>ante</mark>.\n",
+
+            "Je t’ai tout donn<mark class='yellow'>é</mark>, pour toi <u>je me</u> suis bonifi<mark class='yellow'>é</mark>.",
+            "Et tu me l’as rend<mark class='lavender'>u</mark>, d’une maniè<u>re in</u>congr<mark class='lavender'>ue</mark>.",
+            "À <u>base</u> de souffrances qui n’ont que trop dur<mark class='yellow'>ées</mark>.",
+            "Qui m’ont usé jusqu’à <u>ce que</u> je n’en puisse pl<mark class='lavender'>us</mark>.\n",
+
+            "<mark class='lime'>Ce</mark> que je supportais s’est len<u>tement</u> effondr<mark class='yellow'>é</mark>.",
+            "<mark class='lime'>Ceux</mark> que j’aimais sont disparus ou éloign<mark class='yellow'>és</mark>.",
+            "<mark class='lime'>Ceux</mark> que tu m’as laissés, souffrent à mes côt<mark class='yellow'>és</mark>.",
+            "<mark class='lime'>Ce</mark> que j’avais enfoui, tu l’as ressuscit<mark class='yellow'>é</mark>.\n",
+
+            "À tes yeux, ça pourrait paraître b<mark class='orange'>ête</mark>.",
+            "Mais je tenais à <u>dire</u>, je te regr<mark class='orange'>ette</mark>.",
+            "Tu n’auras su m'apporter que trou<u>bles et</u> rem<mark class='purple'>ords</mark>.",
+            "Heureusement, <u>notre</u> vo<u>yage</u> va bientôt se <u>cl<mark class='purple'>ore</mark></u>.\n",
+
+            "Lacherez Louis - 31 décembre 2025 - IV"
+        ]
+        
+    },
+    {
+        "title": "Le bonheur",
+        "image": "img/travaux.jpg",
+        "active": false,
+        "content": [
+            ""
+        ]
+    },
+    {
+        "title": "L'espoir",
+        "image": "img/travaux.jpg",
+        "active": false,
+        "content": [
+            ""
+        ]
+    },
+    {
+        "title": "Mister Fritz",
+        "image": "img/travaux.jpg",
+        "active": false,
+        "content": [
+            ""
+        ]
+    },
+    {
+        "title": "ZÉ",
+        "image": "img/travaux.jpg",
+        "active": false,
+        "content": [
+            ""
+        ]
+    }
+]

@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fragments d'âme</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>🪶 Fragments d'Âme 📜</h1>
+        <p class="subtitle">Recueil de vers et d'émotions</p>
+    </header>
+
+    <div class="container">
+        <div class="grid" id="poemsGrid"></div>
+    </div>
+
+    <div class="modal" id="modal">
+        <div class="modal-content">
+            <button class="close-btn" onclick="closeModal()">✕</button>
+            <div class="modal-header" id="modalHeader">
+                <div class="modal-header-overlay">
+                    <h2 class="modal-title" id="modalTitle"></h2>
+                </div>
+            </div>
+            <div class="modal-body">
+                <div class="modal-controls">
+                    <button class="control-btn" id="toggleFormattingBtn" title="Afficher/Masquer le formatage">
+                        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"></path>
+                            <circle cx="12" cy="12" r="3"></circle>
+                        </svg>
+                    </button>
+                    <button class="control-btn" id="playAudioBtn" title="Jouer l'audio">
+                        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <polygon points="5 3 19 12 5 21 5 3"></polygon>
+                        </svg>
+                    </button>
+                </div>
+                <div class="poem-content" id="poemContent"></div>
+            </div>
+        </div>
+    </div>
+
+    <audio id="poemAudio"></audio>
+
+    <script src="script.js"></script>
+</body>
+</html>
+
+<!-- 
+GUIDE D'UTILISATION DES COULEURS DE SURLIGNAGE :
+
+Dans poems.json, utilisez les balises suivantes :
+
+<mark class='yellow'>texte</mark>    → Jaune (par défaut)
+<mark class='pink'>texte</mark>      → Rose
+<mark class='blue'>texte</mark>      → Bleu
+<mark class='green'>texte</mark>     → Vert
+<mark class='orange'>texte</mark>    → Orange
+<mark class='purple'>texte</mark>    → Violet
+<mark class='red'>texte</mark>       → Rouge
+<mark class='cyan'>texte</mark>      → Cyan
+<mark class='lime'>texte</mark>      → Vert citron
+<mark class='lavender'>texte</mark>  → Lavande
+<mark class='peach'>texte</mark>     → Pêche
+<u></u>
+
+Exemple dans poems.json :
+"content": "Un vers avec <mark class=\"pink\">surligné rose</mark> et <mark class=\"blue\">surligné bleu</mark>."
+-->
